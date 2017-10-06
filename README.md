@@ -1,3 +1,1 @@
-# Did Jackson Win ?
-
 NO
