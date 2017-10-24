@@ -1,0 +1,11 @@
+body
+{
+font-family: "Source Sans Pro";	
+}
+table{
+	border: 1px solid black;
+	text-align: center;
+}
+td {
+	text-align: center;
+}
